@@ -1,0 +1,16 @@
+# SAMA Cybersecurity Framework (CSF) Mapping for Agentic AI
+# This file maps autonomous agent behaviors to specific SAMA CSF controls.
+
+domain: "AI and Machine Learning Governance"
+controls:
+  - control_id: "SAMA-AI-01"
+    description: "Model Validation and Testing"
+    regops_implementation: "Intent Verification pillar ensures agent logic is validated against risk appetite before deployment."
+  
+  - control_id: "SAMA-AI-02"
+    description: "Data Privacy and Sovereignty"
+    regops_implementation: "Dynamic Boundary Enforcement intercepts all data calls to ensure PDPL compliance before execution."
+
+  - control_id: "SAMA-AI-03"
+    description: "Auditability and Traceability"
+    regops_implementation: "Deterministic Proof pillar generates immutable JSON artifacts for every autonomous transaction."
