@@ -63,5 +63,18 @@ We invite CISOs, AI architects, and regulatory experts to contribute to this liv
 * **To Contribute:** Submit a Pull Request with new regulatory mappings or architectural patterns.
 
 ---
+
+## 🖼️ Visual Documentation
+
+### The Regulatory Landscape
+![Regulatory Tsunami](assets/regulatory-tsunami.png)
+![Autonomous Liability](assets/autonomous-liability.png)
+
+### The RegOps Architecture
+![RegOps Architecture Flowchart](assets/regops-architecture-flowchart.png)
+![Deterministic Proof Payload](assets/deterministic-proof-payload.png)
+
+---
+
 *Built for the GCC AI Ecosystem | Continuous Assurance. Deterministic Trust.*  
 *Fazal Malik | Founder, ComplyFlow AI*
