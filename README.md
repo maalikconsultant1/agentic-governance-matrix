@@ -76,5 +76,13 @@ We invite CISOs, AI architects, and regulatory experts to contribute to this liv
 
 ---
 
+ ---
+ ### ⚖️ Legal & Trademark Notice
+Copyright © 2026 ComplyFlow AI. All rights reserved.
+   
+This repository is licensed under the MIT License. However, the "ComplyFlow AI" name, logo, and specific architectural documentation are proprietary trademarks of ComplyFlow AI. Use of the code does not grant permission to use the ComplyFlow AI brand, logo, or to represent this project as an official ComplyFlow AI product.
+
+---
+
 *Built for the GCC AI Ecosystem | Continuous Assurance. Deterministic Trust.*  
 *Fazal Malik | Founder, ComplyFlow AI*
