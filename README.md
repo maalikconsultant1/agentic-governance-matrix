@@ -65,7 +65,17 @@ We invite CISOs, AI architects, and regulatory experts to contribute to this liv
 ---
 
 ## 🖼️ Visual Documentation
+### Visualizing the RegOps Architecture
 
+To understand the shift from legacy compliance to AI Production Readiness, review the core data contracts:
+
+**1. The Regulatory Enforcement Reality:**
+![Regulatory Enforcement JSON](assets/regulatory-enforcement-visual.png)
+*Legacy static PDFs result in critical compliance failures. Continuous runtime assurance is the only viable path.*
+
+**2. The Autonomous Agent Risk Assessment:**
+![Agent Risk Assessment JSON](assets/agent-risk-assessment-visual.png)
+*Post-hoc reviews of autonomous transactions create catastrophic liability. Deterministic proof by design is required.*
 ### The Regulatory Landscape
 ![Regulatory Tsunami](assets/regulatory-tsunami.png)
 ![Autonomous Liability](assets/autonomous-liability.png)
